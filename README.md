@@ -59,9 +59,10 @@ Un ejemplo de una estructura que podéis utilizar para los movimientos sería la
 ]
 ```
 La salida correcta del programa sería la siguiente:
-
+```
 R2D2 está en (-4, 1) PositiveY
 R2D2 está en (-8, 0) PositiveY
 R2D2 está en (-11, 7) PositiveX
 R2D2 está en (-11, 7) PositiveX
 R2D2 está en (-8, 12) NegativeX
+```
